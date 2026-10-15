@@ -18,11 +18,15 @@ I am particularly interested in developing computational and data-driven methods
 
 ## 🚀 Selected Projects
 
-### Large Language Model Training | NTUA
+### Large Language Model Pretraining | NTUA
 
-Participated in a university team project focused on training a 500M-parameter language model using the Nanotron distributed training framework.
+Contributed to the development and pretraining of a 500M-parameter Llama-based language model using the Nanotron distributed training framework.
 
-**Technologies:** Python, PyTorch, Nanotron
+My work focused on debugging the training framework, selecting model architecture parameters (including depth and width), designing pretraining data mixtures, and planning the distribution of training content across different pretraining stages.
+
+**Technologies:** Python, Nanotron, LLM Pretraining
+
+[Original Repository](https://github.com/ntua-el21026/NTUA-Llama_500M_Nanotron) | [My Contributions](https://github.com/yiannishatzigeorgiadis/NTUA-Llama_500M_Nanotron/blob/main/MY_CONTRIBUTION.md)
 
 [View Original Repository](https://github.com/ntua-el21026/NTUA-Llama_500M_Nanotron)
 
@@ -38,8 +42,6 @@ Research focused on the control and current limitation of three-phase grid formi
 - Comparative analysis using simulation results
 
 **Tools:** MATLAB, PLECS, LaTeX
-
-*Technical documentation and selected simulation results will be published here.*
 
 ## 🛠 Technical Skills
 
