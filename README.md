@@ -43,6 +43,21 @@ Research focused on the control and current limitation of three-phase grid formi
 
 **Tools:** MATLAB, PLECS, LaTeX
 
+### Electricity Market Trading — Machine Learning & Optimization
+
+**[Machine Learning and Optimization for Electricity Market Trading](https://github.com/ioannischatzigeorgiadis/electricity-market-battery-trading)**
+
+Independent research project focused on electricity price forecasting and battery energy arbitrage in the German day-ahead electricity market.
+
+- Developed a machine learning forecasting model using **Histogram-Based Gradient Boosting**, achieving **21–22% lower MAE** compared to a naive benchmark.
+- Implemented **deterministic and cost-aware Mixed-Integer Linear Programming (MILP)** models for optimal battery charging and discharging schedules.
+- Extended the optimization framework with **stochastic scenarios and Conditional Value-at-Risk (CVaR)** to investigate uncertainty and downside risk.
+- Achieved **10–13% higher realized gross trading profit** compared to a fixed-schedule benchmark across 2019–2020 backtests.
+
+**Technologies:** Python, scikit-learn, SciPy, MILP, Stochastic Optimization, CVaR
+
+**[Read the Research Paper](https://github.com/ioannischatzigeorgiadis/electricity-market-battery-trading/blob/main/paper/Paper.pdf)**
+
 ## 🛠 Technical Skills
 
 **Programming & Scientific Computing:** Python, MATLAB
